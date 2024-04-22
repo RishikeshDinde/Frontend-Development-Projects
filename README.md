@@ -1,2 +1,2 @@
 # Frontend-Development-Projects
-👋 Hi! I'm Rishikesh Dinde, an M.Tech grad passionate about frontend development. Explore my projects showcasing skills in HTML, CSS, JavaScript, and Python. From responsive designs to interactive web apps, dive into innovative UI/UX experiences. Let's connect and create together! 🚀
+👋 Welcome to my frontend development portfolio! I'm Rishikesh Dinde, an M.Tech graduate in Transportation Engineering from IIT Madras with a strong passion for frontend development. This repository showcases my projects, where I've utilized skills in HTML, CSS, JavaScript, and Python to create responsive and user-friendly web applications.
